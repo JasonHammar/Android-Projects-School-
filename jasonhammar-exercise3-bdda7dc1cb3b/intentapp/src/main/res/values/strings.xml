@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="chooser_title">choose</string>
+</resources>
