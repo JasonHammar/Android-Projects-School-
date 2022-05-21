@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shake Demo</string>
+    <string name="ui_shake_title">Shake to get a toast and switch color!</string>
+</resources>
