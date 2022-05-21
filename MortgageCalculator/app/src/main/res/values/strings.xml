@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="fifteen">15</string>
+    <string name="twenty">20</string>
+    <string name="twenty_five">25</string>
+    <string name="taxes_and_insurance">Taxes and Insurance</string>
+    <string name="calc">Calculate</string>
+</resources>
